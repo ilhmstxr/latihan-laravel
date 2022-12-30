@@ -23,7 +23,10 @@ Route::get('/home', function () {
 });
 
 Route::get('/about', function () {
-    return view('about');
+    return view('about', [
+        "nama" => "rafli",
+        "email" => "ilhamstxr@gmail.com"
+    ]);
 });
 
 Route::get('/project', function () {

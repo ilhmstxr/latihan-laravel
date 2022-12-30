@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>ini adalah halaman about</h1>
+    <h3><?php echo $nama; ?></h3>
+    <h3><?= $email; ?></h3>
 </body>
 </html>

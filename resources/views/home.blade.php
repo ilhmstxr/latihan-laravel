@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/style.css">
-    <title>home </title>
+    <title>home</title>
 </head>
 <body>
     <h1>ini adalah halaman home</h1>
 </body>
+
+<script src="js/script.js"></script>
 </html>
